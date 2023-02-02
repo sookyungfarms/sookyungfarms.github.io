@@ -1,0 +1,15 @@
+---
+title: Wanju
+subtitle: Dolsoe Basic Module
+layout: default
+modal-id: 5
+date: 2022-11-22
+img: 5.jpg
+thumbnail: 5t.jpg
+alt: image-alt
+project-date: November 2022
+client: Wanju
+category: Smart Farm
+description: 전북 완주 원격 교체 업그레이드, 돌쇠 베이직 모듈 설치.
+
+---

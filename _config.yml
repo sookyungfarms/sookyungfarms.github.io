@@ -1,0 +1,66 @@
+url: "https://sukyeongfarms.github.io"
+baseurl: ""
+
+# Site settings
+title: Sukyeong Farms
+email: sukyeongsmart@gmail.com
+description: "수경팜스 홈페이지입니다."
+
+
+# Team names, titles and social links
+people:
+- name: 성경천
+  pic: 1
+  position: 대표
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: 허진노
+  pic: 2
+  position: 부장
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: 정민재
+  pic: 3
+  position: 차장
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/sukyeongfarms
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 경충대로3054번길 40, 좌측 사무실
+  - line: 경기도 이천시
+
+# Build settings
+markdown: kramdown
+permalink: pretty

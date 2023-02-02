@@ -1,0 +1,15 @@
+---
+title: Yesan
+subtitle: Dolsoe Basic
+layout: default
+modal-id: 1
+date: 2023-01-12
+img: 1.jpg
+thumbnail: 1t.jpg
+alt: image-alt
+project-date: January 2023
+client: Yesan
+category: Smart Farm
+description: 충북 예산 돌쇠 베이직 10구 설치
+
+---

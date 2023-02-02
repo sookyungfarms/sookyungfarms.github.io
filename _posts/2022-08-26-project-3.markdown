@@ -1,0 +1,15 @@
+---
+title: Icheon
+subtitle: Dolsoe Basic
+layout: default
+modal-id: 3
+date: 2022-08-26
+img: 3.jpg
+thumbnail: 3t.jpg
+alt: image-alt
+project-date: August 2022
+client: Icheon
+category: Smart Farm
+description: 이천 돌쇠 베이직 8구 설치. 경기도 농업기술원 기술보급사업 중간평가회 우수 스마트팜사업 시행 농가 선정.
+
+---
