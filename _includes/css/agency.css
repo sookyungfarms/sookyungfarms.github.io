@@ -123,7 +123,7 @@ fieldset[disabled] .btn-primary.active {
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
+    font-family: {{ site.data.template.font.third }};
     font-size: 18px;
     font-weight: 700;
     color: #fff;
