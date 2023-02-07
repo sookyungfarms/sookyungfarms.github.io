@@ -668,6 +668,11 @@ section#contact .section-heading {
     color: #fff;
 }
 
+section#contact .section-body {
+    color: #fff;
+    text-transform: none;
+}
+
 section#contact .form-group {
     margin-bottom: 25px;
 }
