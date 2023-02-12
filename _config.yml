@@ -7,14 +7,6 @@ email: sukyeongsmart@gmail.com
 description: "수경팜스 홈페이지입니다."
 
 
-# Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    tracking_id          : G-KPWFYYL6P9
-    anonymize_ip         :
-
-
 # Team names, titles and social links
 people:
 - name: 성경천
