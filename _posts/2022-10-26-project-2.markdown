@@ -1,5 +1,5 @@
 ---
-title: Kimje
+title: Gimje
 subtitle: Dolsoe Basic Module
 layout: default
 modal-id: 2
@@ -8,7 +8,7 @@ img: 2.jpg
 thumbnail: 2t.jpg
 alt: image-alt
 project-date: October 2022
-client: Kimje
+client: Gimje
 category: Smart Farm
 description: 전북 김제 원격 업그레이드, 돌쇠 베이직 모듈 설치.
 

@@ -1,0 +1,15 @@
+---
+title: Damyang
+subtitle: Dolsoe Module
+layout: default
+modal-id: 6
+date: 2023-02-16
+img: 6.jpg
+thumbnail: 6t.jpg
+alt: image-alt
+project-date: Febuary 2023
+client: Damyang
+category: Smart Farm
+description: 전남 담양 돌쇠 모듈 19구 설치
+
+---
