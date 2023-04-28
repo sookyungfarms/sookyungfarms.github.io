@@ -1,0 +1,15 @@
+---
+title: Gangneung
+subtitle: Dolsoe 2
+layout: default
+modal-id: 7
+date: 2023-04-18
+img: 7.jpg
+thumbnail: 7t.jpg
+alt: image-alt
+project-date: April 2023
+client: Gangneung
+category: Smart Farm
+description: 강원도 강름 돌쇠 8구 및 CCTV 설치
+
+---
