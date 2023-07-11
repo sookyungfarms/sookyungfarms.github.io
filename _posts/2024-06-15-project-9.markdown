@@ -1,0 +1,15 @@
+---
+title: Smart Farm Korea 2023
+subtitle: Dolsoe 2
+layout: default
+modal-id: 9
+date: 2023-06-15
+img: 9.jpg
+thumbnail: 9t.jpg
+alt: image-alt
+project-date: June 2023
+client: Smart Farm Korea 2023
+category: Smart Farm
+description: 스마트팜코리아 2023 박람회. 팀스페이스팜과 공동참여.
+
+---

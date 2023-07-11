@@ -41,6 +41,17 @@ people:
       url: #
     - title: google-plus
       url: #
+
+- name: 오동훈
+  pic: 4
+  position: 커넥터
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
       
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

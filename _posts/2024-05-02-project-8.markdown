@@ -1,0 +1,15 @@
+---
+title: Icheon
+subtitle: Dolsoe 2
+layout: default
+modal-id: 8
+date: 2023-05-02
+img: 8.jpg
+thumbnail: 8t.jpg
+alt: image-alt
+project-date: May 2023
+client: Icheon
+category: Smart Farm
+description: 경기 이천 돌쇠 베이직 원격 18구 + CCTV 설치
+
+---
