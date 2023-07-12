@@ -10,6 +10,6 @@ alt: image-alt
 project-date: May 2023
 client: Icheon
 category: Smart Farm
-description: 경기 이천 돌쇠 베이직 원격 18구 + CCTV 설치
+description: 경기 이천 돌쇠 베이직 원격 18구 + 24구 + CCTV 설치
 
 ---
