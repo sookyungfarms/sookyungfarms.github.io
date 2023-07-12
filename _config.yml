@@ -22,7 +22,7 @@ people:
 
 - name: 허진노
   pic: 2
-  position: 부장
+  position: 스마트팜부 부장
   social:
     - title: twitter
       url: #
@@ -33,7 +33,7 @@ people:
 
 - name: 정민재
   pic: 3
-  position: 차장
+  position: 스마트팜부 차장
   social:
     - title: twitter
       url: #
@@ -44,7 +44,18 @@ people:
 
 - name: 오동훈
   pic: 4
-  position: 커넥터
+  position: 스마트팜부 커넥터
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: 김현철
+  pic: 5
+  position: 시공감리부 부장
   social:
     - title: twitter
       url: #
